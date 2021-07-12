@@ -11,6 +11,7 @@ class Car{
         {
             speed=-speed;
             this.spt.addAnimation("car",carAnimation2);
+           this.spt.scale=0.1;
         }
         this.spt.velocityX = speed;
     }
