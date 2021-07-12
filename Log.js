@@ -10,6 +10,7 @@ class Log{
         this.spt.shapeColor = "brown";
         this.spt.scale=0.1;
         this.spt.addAnimation("log",logAnimation);
+        this.spt.scale=0.1;
     }
 
    
